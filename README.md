@@ -2,7 +2,6 @@
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3f7cad.svg?logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-58af50.svg?logo=node.js&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-e6712c?logo=Java&logoColor=white">
