@@ -1,4 +1,4 @@
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=darcasterr)](https://codeforces.com/profile/darcasterr)
+
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3f7cad.svg?logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
