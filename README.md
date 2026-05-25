@@ -37,12 +37,32 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaguemit&layout=compact&theme=github_dark" alt="stats"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaguemit&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaguemit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</div>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Achievements
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api?username=darcasterr&theme=dark" alt="Codeforces Stats"/>
+</div>
 
 - :trophy: **Codeforces Candidate Master** — Rating **1898** (Peak **2029**), Top **3%** globally
 - :muscle: **1000+ problems** solved across Codeforces, LeetCode, GeeksForGeeks, HackerRank, CSES, USACO, and CodeChef
 - :fire: Built **[AlgoAtlas](https://github.com/vaguemit)** — a full-stack CP platform with **400+ active users** and <500ms API response times
 - :desktop_computer: Shipped **[GhostDesk](https://ghost-desk.app)** — a cross-platform AI overlay (Windows + macOS) with automated billing and device-locked licensing
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaguemit/vaguemit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaguemit/vaguemit/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaguemit/vaguemit/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 
